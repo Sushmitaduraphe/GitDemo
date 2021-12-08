@@ -24,6 +24,15 @@ public class SeleniumTest {
 
 		
 	}
+	
+	@Test
+	public void elementsUi1()
+	{
+		
+		System.out.println("elementsofUi");
+
+		
+	}
 
 	
 	
